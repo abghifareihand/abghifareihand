@@ -4,8 +4,8 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,tailwind,php,androidstudio,firebase,postman,figma,github,gitlab)](https://skillicons.dev)
 
 ### Connect with me
-<a href = "mailto:info.abghifareihan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.linkedin.com/in/abghifareihand//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "mailto:abghifareihand@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href = "https://www.linkedin.com/in/abghifareihand/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Support
 <p><a href="https://www.buymeacoffee.com/abghifareihand"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abghifareihand" /></a></p><br><br>
