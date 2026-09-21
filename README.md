@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Abghi Fareihan
 
 ### Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,tailwind,php,androidstudio,firebase,postman,figma,github,gitlab)](https://skillicons.dev)
 
 ### Connect with me
 <a href = "mailto:info.abghifareihan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
