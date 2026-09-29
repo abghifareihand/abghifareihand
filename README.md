@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Abghi Fareihan
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,tailwind,php,androidstudio,firebase,postman,figma,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,laravel,vue,tailwind,php,androidstudio,firebase,postman,figma,github,gitlab)](https://skillicons.dev)
 
 ### Connect with me
 <a href = "mailto:abghifareihand@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
